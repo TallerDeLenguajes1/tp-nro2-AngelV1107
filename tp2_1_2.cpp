@@ -30,7 +30,7 @@ int main()
 	{
 		for (c=0; c<M; c++)
 		{
-			printf("%lf    ", mt[f][c]);
+			printf("%lf    ", *(*(mt+f) + c));
 		}
 		printf("\n");
 	}
