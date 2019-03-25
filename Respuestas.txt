@@ -1,1 +1,3 @@
-2)f)No se puede ver el archivo tp2_1_2.cpp porque se encuentra en un branch distinto
+2)f)No se puede ver el archivo tp2_1_2.cpp en el branch master porque el archivo se encuentra en un branch distinto
+
+"gitk --all" muestra información del repositorio en una interfaz grafica. Se observa la separación del branch master y Opcion_2 y luego su union por el merge
